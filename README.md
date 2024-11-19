@@ -2,7 +2,14 @@
 ---
 ## ***HOW TO INSTALL***
 ### **JavaScript**
-- Import via Import
+- First, create a <link></link> tag with its rel as stylesheet and href as the url to the theme you want.
+```javascript
+const lemonAPCcss = document.createElement('link');
+lemonAPCcss.rel = 'stylesheet';
+lemonAPCcss.href = 'url/to/theme';
+document.head.appendChild(lemonAPCcss);
+```
+- Then, import the module with import(). (Make sure your script is treated as a module)
 ```javascript
 let lemonAPC;
 import('url/to/lemonAPC')
@@ -10,7 +17,7 @@ import('url/to/lemonAPC')
       lemonAPC = module.lemonAPC;
    });
 ```
-- That's all
+- And you're done! You now have LemonAPC in your project!
 ---
 ## ***NOTE***
 - A theme is **required** for it to work.

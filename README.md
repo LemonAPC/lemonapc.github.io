@@ -33,17 +33,27 @@ https://lemonapc.github.io/dist/lemonAPC.js
 ```
 ---
 ### Themes
-***Default:***
+***Default Theme:***
 ```html
 <link rel="stylesheet" href="https://lemonapc.github.io/themes/default.css">
 ```
 
-***Dark:***
+***Dark Theme:***
 ```html
 <link rel="stylesheet" href="https://lemonapc.github.io/themes/dark.css">
 ```
 
-***Soft:***
+***Soft Theme:***
 ```html
 <link rel="stylesheet" href="https://lemonapc.github.io/themes/soft.css">
+```
+
+***Blueglow Theme:***
+```html
+<link rel="stylesheet" href="https://lemonapc.github.io/themes/blueglow.css">
+```
+
+***woke Theme:***
+```html
+<link rel="stylesheet" href="https://lemonapc.github.io/themes/woke.css">
 ```

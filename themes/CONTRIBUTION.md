@@ -13,3 +13,7 @@
 
 # woke
 - Made by [@BludIsAnLemon](https://github.com/BludIsAnLemon)
+
+# Turtle
+- Made by [@BludIsAnLemon](https://github.com/BludIsAnLemon)
+- Idea by [@fath11](https://github.com/fath11)

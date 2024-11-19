@@ -1,4 +1,5 @@
 # **LemonAPC**
+- Reject alert(), prompt(), confirm(). Use **LemonAPC**.
 ---
 ## ***HOW TO INSTALL***
 ### **JavaScript**

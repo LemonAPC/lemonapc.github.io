@@ -1,4 +1,4 @@
-const LemonAPC = {
+export const LemonAPC = {
   /**
   alert() but better
   */

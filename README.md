@@ -58,3 +58,8 @@ https://lemonapc.github.io/dist/lemonAPC.js
 ```html
 <link rel="stylesheet" href="https://lemonapc.github.io/themes/woke.css">
 ```
+
+***Turtle Theme:***
+```html
+<link rel="stylesheet" href="https://lemonapc.github.io/themes/turtle.css">
+```

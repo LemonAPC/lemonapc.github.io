@@ -83,6 +83,7 @@ const LemonAPC = {
       closeButton.style.color = "white";
       closeButton.style.fontWeight = "bold";
       closeButton.textContent = "Close Popup";
+      closeButton.style.cursor = "pointer";
       popup.appendChild(closeButton);
       
       closeButton.addEventListener("click", () => {
@@ -151,6 +152,7 @@ const LemonAPC = {
     submitButton.style.color = "white";
     submitButton.style.fontWeight = "bold";
     submitButton.textContent = "Submit";
+    submitButton.style.cursor = "pointer";
       
     submitButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay, input: inputBar.value});
@@ -168,6 +170,7 @@ const LemonAPC = {
     cancelButton.style.color = "white";
     cancelButton.style.fontWeight = "bold";
     cancelButton.textContent = "Cancel";
+    cancelButton.style.cursor = "pointer";
       
     cancelButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay});
@@ -278,6 +281,7 @@ const LemonAPC = {
     okButton.style.color = "white";
     okButton.style.fontWeight = "bold";
     okButton.textContent = "Ok";
+    okButton.style.cursor = "pointer";
       
     okButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay, input: true});
@@ -295,6 +299,7 @@ const LemonAPC = {
     cancelButton.style.color = "#222";
     cancelButton.style.fontWeight = "bold";
     cancelButton.textContent = "Cancel";
+    cancelButton.style.cursor = "pointer";
       
     cancelButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay});

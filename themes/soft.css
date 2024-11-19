@@ -1,0 +1,19 @@
+.lemonapcpopup {
+  background-color: #FFFCF1;
+  color: #555;
+}
+
+.lemonapc-okbutton{
+  background-color: #888CB5;
+  color: white;
+}
+
+.lemonapc-cancelbutton {
+  background-color: #C58380;
+  color: #555;
+}
+
+.lemonapc-submitbutton {
+  background-color: #8BAF82;
+  color: white;
+}

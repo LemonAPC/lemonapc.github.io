@@ -1,31 +1,31 @@
 .lemonapcpopup {
   background-color: white;
-  box-shadow: 0px 0px 50px #CAEDF2;
+  box-shadow: 0px 0px 70px #CAEDF2;
   color: #CAEDF2;
-  text-shadow: 0px 0px 15px #CAEDF2;
+  text-shadow: 0px 0px 50px #CAEDF2;
 }
 
 .lemonapc-okbutton{
   background-color: #CAEDF2;
-  box-shadow: 0px 0px 50px #CAEDF2;
+  box-shadow: 0px 0px 70px #CAEDF2;
   color: white;
-  text-shadow: 0px 0px 15px white;
+  text-shadow: 0px 0px 50px white;
 }
 
 .lemonapc-cancelbutton {
   background-color: #CAEDF2;
-  box-shadow: 0px 0px 50px #CAEDF2;
+  box-shadow: 0px 0px 70px #CAEDF2;
   color: white;
-  text-shadow: 0px 0px 15px white;
+  text-shadow: 0px 0px 50px white;
 }
 
 .lemonapc-submitbutton {
   background-color: #CAEDF2;
-  box-shadow: 0px 0px 50px #CAEDF2;
+  box-shadow: 0px 0px 70px #CAEDF2;
   color: white;
-  text-shadow: 0px 0px 15px white;
+  text-shadow: 0px 0px 50px white;
 }
 
 .lemonapcpopup img {
-  box-shadow: 0px 0px 50px #CAEDF2;
+  box-shadow: 0px 0px 70px #CAEDF2;
 }

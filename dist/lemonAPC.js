@@ -1,4 +1,4 @@
-export const LemonAPC = {
+const LemonAPC = {
   /**
   alert() but better
   */
@@ -25,6 +25,8 @@ export const LemonAPC = {
     
     popup.style.width = '0px';
     popup.style.height = '0px';
+    
+    popup.style.backgroundColor = "white";
     
     popup.style.display = 'flex';
     popup.style.flexDirection = 'column';
@@ -118,6 +120,8 @@ export const LemonAPC = {
     
     popup.style.outline = 'none';
     popup.style.border = 'none';
+    
+    popup.style.backgroundColor = "white";
     
     popup.style.display = 'flex';
     popup.style.flexDirection = 'column';
@@ -250,6 +254,8 @@ export const LemonAPC = {
     
     popup.style.outline = 'none';
     popup.style.border = 'none';
+    
+    popup.style.backgroundColor = "white";
     
     popup.style.display = 'flex';
     popup.style.flexDirection = 'column';

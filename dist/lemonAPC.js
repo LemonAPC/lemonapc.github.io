@@ -26,7 +26,7 @@ export const LemonAPC = {
     popup.style.width = '0px';
     popup.style.height = '0px';
     
-    popup.style.backgroundColor = "white";
+    popup.classList.add("lemonapcpopup");
     
     popup.style.display = 'flex';
     popup.style.flexDirection = 'column';
@@ -86,6 +86,9 @@ export const LemonAPC = {
       closeButton.style.fontWeight = "bold";
       closeButton.textContent = "Close Popup";
       closeButton.style.cursor = "pointer";
+      
+      closeButton.classList.add("lemonapc-closebutton");
+      
       popup.appendChild(closeButton);
       
       closeButton.addEventListener("click", () => {
@@ -121,7 +124,7 @@ export const LemonAPC = {
     popup.style.outline = 'none';
     popup.style.border = 'none';
     
-    popup.style.backgroundColor = "white";
+    popup.classList.add("lemonapcpopup");
     
     popup.style.display = 'flex';
     popup.style.flexDirection = 'column';
@@ -157,6 +160,8 @@ export const LemonAPC = {
     submitButton.style.fontWeight = "bold";
     submitButton.textContent = "Submit";
     submitButton.style.cursor = "pointer";
+    
+    submitButton.classList.add("lemonapc-submitbutton")
       
     submitButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay, input: inputBar.value});
@@ -175,6 +180,8 @@ export const LemonAPC = {
     cancelButton.style.fontWeight = "bold";
     cancelButton.textContent = "Cancel";
     cancelButton.style.cursor = "pointer";
+    
+    cancelButton.classList.add("lemonapc-cancelbutton");
       
     cancelButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay});
@@ -255,7 +262,7 @@ export const LemonAPC = {
     popup.style.outline = 'none';
     popup.style.border = 'none';
     
-    popup.style.backgroundColor = "white";
+    popup.classList.add("lemonapcpopup");
     
     popup.style.display = 'flex';
     popup.style.flexDirection = 'column';
@@ -288,7 +295,9 @@ export const LemonAPC = {
     okButton.style.fontWeight = "bold";
     okButton.textContent = "Ok";
     okButton.style.cursor = "pointer";
-      
+    
+    okButton.classList.add("lemonapc-okbutton");
+    
     okButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay, input: true});
     })
@@ -306,7 +315,9 @@ export const LemonAPC = {
     cancelButton.style.fontWeight = "bold";
     cancelButton.textContent = "Cancel";
     cancelButton.style.cursor = "pointer";
-      
+    
+    cancelButton.classList.add("lemonapc-cancelbutton");
+    
     cancelButton.addEventListener("click", () => {
       closePopup({callback: callback, callbackDelay: callbackDelay});
     })

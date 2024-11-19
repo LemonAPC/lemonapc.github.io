@@ -3,7 +3,7 @@
 ---
 ## ***HOW TO INSTALL***
 ### **JavaScript**
-- First, create a <link> tag with its rel as stylesheet and href as the url to the theme you want.
+- First, create a link tag with its rel as stylesheet and href as the url to the theme you want.
 ```javascript
 const lemonAPCcss = document.createElement('link');
 lemonAPCcss.rel = 'stylesheet';

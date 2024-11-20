@@ -63,3 +63,8 @@ https://lemonapc.github.io/dist/lemonAPC.js
 ```html
 <link rel="stylesheet" href="https://lemonapc.github.io/themes/turtle.css">
 ```
+
+***Devid Bitter Theme:***
+```html
+<link rel="stylesheet" href="https://lemonapc.github.io/themes/devid_bitter.css">
+```

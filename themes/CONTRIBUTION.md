@@ -17,3 +17,7 @@
 # Turtle
 - Made by [@BludIsAnLemon](https://github.com/BludIsAnLemon)
 - Idea by [@fath11](https://github.com/fath11)
+
+# Devid Bitter
+- Made by [@BludIsAnLemon](https://github.com/BludIsAnLemon)
+- Idea by [@Bitter130](https://github.com/Bitter130)

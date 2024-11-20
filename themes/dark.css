@@ -3,12 +3,12 @@
   color: white;
 }
 
-.lemonapc-okbutton{
+.lemonapc-okbutton {
   background-color: royalblue;
   color: white;
 }
 
-.lemonapc-cancelbutton {
+.lemonapc-cancelbutton, .lemonapc-closebutton {
   background-color: #555;
   color: #DDD;
 }

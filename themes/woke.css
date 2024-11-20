@@ -6,7 +6,7 @@
   color: white;
 }
 
-.lemonapc-okbutton{
+.lemonapc-okbutton {
   animation-name: rainbow;
   animation-duration: 5s;
   animation-delay: 0.5s;
@@ -15,7 +15,7 @@
   color: white;
 }
 
-.lemonapc-cancelbutton {
+.lemonapc-cancelbutton, .lemonapc-closebutton {
   animation-name: rainbow;
   animation-duration: 5s;
   animation-delay: 0.25s;

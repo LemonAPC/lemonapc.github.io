@@ -20,4 +20,4 @@
 
 # Devid Bitter
 - Made by [@BludIsAnLemon](https://github.com/BludIsAnLemon)
-- Idea by [@Bitter130](https://github.com/Bitter130)
+- Made for [@Bitter130](https://github.com/Bitter130)

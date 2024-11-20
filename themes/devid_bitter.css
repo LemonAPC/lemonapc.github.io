@@ -1,0 +1,21 @@
+/*Why so bitter*/
+
+.lemonapcpopup {
+  background-color: rgba(11, 12, 29, 1);
+  color: white;
+  box-shadow:
+  0px 0px 0px 10px lawngreen,
+  0px 0px 0px 20px rgba(11, 12, 29, 1),
+  0px 0px 0px 30px green,
+  0px 0px 0px 40px rgba(19, 59, 20, 0.25),
+  0px 0px 0px 50px rgba(19, 59, 20, 0.10)
+  ;
+}
+
+.lemonapc-cancelbutton, .lemonapc-closebutton, .lemonapc-submitbutton, .lemonapc-okbutton {
+  background-color: lawngreen;
+  box-shadow:
+  0px 0px 0px 10px rgba(19, 59, 20, 0.25),
+  0px 0px 0px 20px rgba(19, 59, 20, 0.10);
+  color: rgba(11, 12, 29, 1);
+}
